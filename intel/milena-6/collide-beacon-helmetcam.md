@@ -1,4 +1,4 @@
-# Collide Beacon Helmet Camera
+# Collide Beacon Helmet Camera Footage
 
 ## Metadata
 
