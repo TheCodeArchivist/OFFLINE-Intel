@@ -8,7 +8,7 @@ Intelligence files for the OFFLINE Operations.
 
 * [``Radio Transmission n°1``](/intel/milena-6/radio-transmission-1.md)
 
-### ``Blackout``
+### ``BLACKOUT``
 
 ```plaintext
 ENTRIES CORRUPTED
