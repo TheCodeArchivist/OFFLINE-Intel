@@ -10,6 +10,7 @@ Intelligence files for the OFFLINE Operations.
 * [``Workstation Lockdown Screen``](/intel/milena-6/workstation-lockdown-screen.md)
 * [``Collide Beacon Helmet Camera Footage``](/intel/milena-6/collide-beacon-helmetcam.md)
 * [``Collide Spatio-Temporal Analysis - Draft``](/intel/milena-6/collide-spatio-temporal-analysis.md)
+* [``Welcome to Station Milena-6``](/intel/milena-6/welcome-to-stmil6.md)
 
 ### ``BLACKOUT``
 
