@@ -28,4 +28,6 @@
 <1011> : Copy. Agent Volgrin, signing out
 ```
 
+![intel](/assets/intel_collidebeacon_1.png)
+
 ***
