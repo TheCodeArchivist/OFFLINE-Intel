@@ -7,6 +7,7 @@ Intelligence files for the OFFLINE Operations.
 ### ``Station Milena-6``
 
 * [``Radio Transmission n°1``](/intel/milena-6/radio-transmission-1.md)
+* [``Workstation Lockdown Screen``](/intel/milena-6/workstation-lockdown-screen.md)
 
 ### ``BLACKOUT``
 
