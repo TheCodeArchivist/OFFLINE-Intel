@@ -10,4 +10,6 @@
 
 ## Data
 
+![intel](/assets/intel_sectorlockdown.png)
+
 ***
